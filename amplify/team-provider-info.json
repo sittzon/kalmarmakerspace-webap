@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-kalmarmakerspaceweba-dev-223200-authRole",
+            "UnauthRoleArn": "arn:aws:iam::218268132661:role/amplify-kalmarmakerspaceweba-dev-223200-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::218268132661:role/amplify-kalmarmakerspaceweba-dev-223200-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "amplify-kalmarmakerspaceweba-dev-223200-deployment",
+            "UnauthRoleName": "amplify-kalmarmakerspaceweba-dev-223200-unauthRole",
+            "StackName": "amplify-kalmarmakerspaceweba-dev-223200",
+            "StackId": "arn:aws:cloudformation:eu-central-1:218268132661:stack/amplify-kalmarmakerspaceweba-dev-223200/9480ef00-e4b6-11ea-a517-0a69def5f2ec",
+            "AmplifyAppId": "d14qf6ropaqto9"
+        },
+        "categories": {
+            "auth": {
+                "kalmarmakerspaceweba7c09a8c2": {}
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"kalmarmakerspaceweba7c09a8c2": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
